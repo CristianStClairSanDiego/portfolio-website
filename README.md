@@ -1,4 +1,8 @@
 # portfolio-website
+
+Web Hosted by Bluehost
+Domain owned with Google Domains
+
 Last Updated: 18 October 2022
 
 Contains the html, css, and js files that allow https://www.cristianstclair.com to run.
